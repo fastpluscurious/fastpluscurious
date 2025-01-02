@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @fastpluscurious
-- 👀 I’m interested in ...Math and scinece and coding plus Raspberry Pi
-- 😄 Pronouns: He, him
-- ⚡ Fun fact: I made it to a state science fair
+- 👀 I’m intrested in coding math science rockets
+robotics.
+- 😄 Pronouns: He, him, his
+- ⚡ Fun fact: I am working on a simple rocket 
+with has proven to be hard to do but i will push 
+through.
 
 <!---
 fastpluscurious/fastpluscurious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You click the Preview link to take a look at your changes.
 --->
