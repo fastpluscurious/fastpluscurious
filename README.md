@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fastpluscurious
+- 👋 Hi, I’m @Einstein2
 - 👀 I’m intrested in coding math science rockets
 robotics.
 - 😄 Pronouns: He, him, his
